@@ -1,0 +1,2 @@
+# Diabetic-Retinopathy-using-Logistic-Regression
+Diabetic retinopathy is a diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). At first, diabetic retinopathy may cause no symptoms or only mild vision problems. Here, we have some parameters based on which we will decide that if the patient has a the disease or not. 
